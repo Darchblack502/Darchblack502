@@ -40,5 +40,5 @@ Ingeniero de Software enfocado en blindar aplicaciones y asegurar la calidad del
 ---
 
 ### 🦅 Conecta Conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/juan-felipe-muñoz-jimenez-922a4322b/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-muñoz-jimenez-922a4322b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfemuoz991@gmail.com)
